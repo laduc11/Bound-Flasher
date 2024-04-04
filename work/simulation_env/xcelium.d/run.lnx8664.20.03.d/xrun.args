@@ -1,0 +1,12 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-access
+rw
+-lcqueue
+-64BIT
+-l
+run.log
+bound_flasher_tb.v
+bound_flasher.v

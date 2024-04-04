@@ -1,0 +1,13 @@
+s1(03Apr2024:16:27:00):  xrun -access rw -licqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s2(03Apr2024:16:28:38):  xrun -access rw -licqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s3(03Apr2024:16:39:55):  xrun -access rw -licqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s4(03Apr2024:16:43:31):  xrun -access rw -licqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s5(03Apr2024:16:54:06):  xrun -access rw -lcqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s6(03Apr2024:17:09:12):  xrun -access rw -lcqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s7(03Apr2024:17:27:20):  xrun -access rw -lcqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s8(03Apr2024:18:41:35):  xrun -access rw -lcqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s9(03Apr2024:18:59:29):  xrun -access rw -lcqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s10(03Apr2024:19:10:10):  xrun -access rw -lcqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s11(03Apr2024:19:27:42):  xrun -access rw -lcqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s12(03Apr2024:19:35:22):  xrun -access rw -lcqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 
+s13(04Apr2024:13:16:10):  xrun -access rw -lcqueue -64BIT -l run.log bound_flasher_tb.v bound_flasher.v 

@@ -1,0 +1,19 @@
+xrun(64): 20.03-s010: (c) Copyright 1995-2020 Cadence Design Systems, Inc.
+TOOL:	xrun(64)	20.03-s010: Started on Apr 04, 2024 at 13:16:10 +07
+xrun
+	-access rw
+	-lcqueue
+	-64BIT
+	-l run.log
+	bound_flasher_tb.v
+	bound_flasher.v
+xrun: *W,CLIB: The following -l<libname> options, specified to link dynamic C library, are found redundant: 
+-lcqueue
+.
+Loading snapshot worklib.bound_flasher_tb:v .................... Done
+xcelium> source /home/share_file/cadence/installs/XCELIUM2003/tools/xcelium/files/xmsimrc
+xcelium> run
+Simulation complete via $finish(1) at time 2439 NS + 0
+./bound_flasher_tb.v:57     #(CYCLE*45) $finish;
+xcelium> exit
+TOOL:	xrun(64)	20.03-s010: Exiting on Apr 04, 2024 at 13:16:13 +07  (total: 00:00:03)
